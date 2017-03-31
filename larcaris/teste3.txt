@@ -1,0 +1,11 @@
+idade,datanasc,peso,altura,rg,nome,sexo,raça
+1,10,55,128,12345,larissa,f,parda
+2,20,66,125,78901,silvio,m,branco
+3,18,25,155,12589,carina,f,negro
+4,22,42,169,58745,carol ,f,moreno
+5,55,89,210,63201,sandra,f,parda
+6,44,25,200,25896,jussara,f,branco
+7,88,85,195,20147,eugenia ,f,negro
+8,87,50,220,89520,carmem,f,moreno
+9,63,40,300,36598,vinicius,m,parda
+10,50,60,400,12579,tati,f,branco
